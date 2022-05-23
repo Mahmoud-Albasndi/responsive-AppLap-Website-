@@ -8,4 +8,3 @@ window.addEventListener("scroll", function () {
     nav.classList.remove("box-sh-nav");
   }
 });
-console.log(nav);
